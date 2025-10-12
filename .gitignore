@@ -1,0 +1,9 @@
+# Large files that cause push issues
+excel/loan_data_analysis.xlsx
+powerBI/bank_loan_data_insights.pbix
+tableau/bank_loan_data_viz.twbx
+
+# System files
+.DS_Store
+*.tmp
+*.log
