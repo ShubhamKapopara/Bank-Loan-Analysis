@@ -271,6 +271,11 @@ Thank you for exploring the bank loan analysis project. We look forward to conti
 
 ---
 
+### 💬 Connect With Me  
+
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham%20Kapopara-blue?logo=linkedin)](https://www.linkedin.com/in/shubhamkapopara/) [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-Shubham%20Kapopara-%23003366?logo=tableau)](https://public.tableau.com/app/profile/shubham.kapopara) [![GitHub](https://img.shields.io/badge/GitHub-Shubham%20Kapopara-2b3137?logo=github)](https://github.com/shubhamkapopara)**
+
+
 ## MIT License
 
 This project is distributed under the MIT License granting you the freedom to adapt and utilize the codebase as needed.
