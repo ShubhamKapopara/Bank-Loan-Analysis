@@ -1,22 +1,5 @@
 # Bank Loan Portfolio Assessment
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Objectives](#objectives)
-- [Data Source](#data-source)
-- [Methodology](#methodology)
-- [Key Insights and Findings](#key-insights-and-findings)
-- [Tools and Technologies Used](#tools-and-technologies-used)
-- [Future Work](#future-work)
-- [Principal Visualizations](#principal-visualizations)
-- [Data Visualization Interfaces](#data-visualization-interfaces)
-- [Terminologies Used in Data](#terminologies-used-in-data)
-- [Getting Started](#getting-started)
-- [Contribution](#contribution)
-- [Conclusion](#conclusion)
-- [MIT License](#mit-license)
-
 ## Project Overview
 
 This project undertakes a comprehensive analysis of bank loan data, leveraging SQL for robust data querying and manipulation. The analysis is complemented by advanced visualization and further exploration using Power BI, Excel, and Tableau. The primary objective is to extract actionable insights concerning loan applications, funding, repayments, and borrower demographics. The analysis spans various dimensions, including temporal (monthly trends, loan terms), geographical (state-level analysis), and categorical aspects (loan purposes, home ownership).
